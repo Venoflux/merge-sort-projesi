@@ -14,4 +14,4 @@ Patika'nın Veri Yapıları ve Algoritmalar kısmının proje ödevi.
 
 **2) Big-O gösterimini yazınız.**
 
-Average case olarak baz alınır ise **O(n $\times$ log n)** öyle ise 6 elemanlı bir array için **O(6 $\times$ log 6) = 15.5 $\approx$ 16**
+Average case olarak baz alınır ise **O(n * log n)** öyle ise 6 elemanlı bir array için **O(6 * log 6) = 15.5 ≈ 16**
